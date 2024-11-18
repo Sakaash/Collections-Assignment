@@ -1,11 +1,11 @@
-package LinkedList;
+package ArrayListandLL;
 
 import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;
 import java.util.Queue;
 
-public class Main {
+public class LinkedL {
     public static void main(String[] args) {
         // **Add and Access Elements**
         LinkedList<Integer> list = new LinkedList<>();

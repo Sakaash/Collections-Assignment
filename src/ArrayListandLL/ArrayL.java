@@ -1,4 +1,4 @@
-package ArrayList;
+package ArrayListandLL;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-public class Main {
+public class ArrayL {
     public static void main(String[] args) {
         // **Add and Retrieve Elements**
         ArrayList<String> list = new ArrayList<>();
